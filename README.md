@@ -8,8 +8,7 @@ Relentless QA tester/analyst with good eye at finding/preventing issues
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+  * [Test cases, bug reports and work in Jira/Excel](#test-cases-bug-reports-and-work-in-Jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
 - [Books I have read](#books-i-have-read)
 
@@ -101,15 +100,13 @@ A course which helps to use  design thinking approach to new product development
 
 ## Examples of my work
 
-### Test cases and work in Jira
+### Test cases, bug reports and work in Jira/Excel
 
 - [The training webshop](https://www.amazon.ca/) was used to create demo test cases.
   * Test case for checking the checkout process and for checking the addition of items to the cart. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/12XMzBiKmU68qL5GpNhlyiYPUW0ocuaVtdLsBgyzF3a4/edit?usp=sharing)
 
 - [The training webpage](jobsautopilot.com) was used to create demo test cases.
   * Test case for uploading resume to Chrome extension. Check [the screenshot from Jira here](https://docs.google.com/document/d/1Bu-O-FwSxEMNWl-EX6TR0fQQZXG15F20DVf_ozpR1P0/edit?usp=sharing).
-
-### Bug reports and work in Jira/Excel
 
   * Bug report. Check (https://docs.google.com/spreadsheets/d/1yVxq0jCm3520k8lXmZ44cJOvsob6GNT7_9O1wJbDh-s/edit?usp=sharing).
   * Bug report. Screenshot from Jira (https://docs.google.com/document/d/1Bg9clemZXSfrit4TjOE-vexZ9_GzmiLbyypcp-_rc8s/edit?usp=sharing).
