@@ -19,7 +19,7 @@ I am a dedicated and persistent individual, who possesses ability to work with p
 
 I got my Master's Degree from the University of Ukraine. However, my major is called Tourism, we processed a lot of maths, statistics, research, business and economics. But, in general, I am a typical "switcher", as you may have heard about people, who decided after graduation to move to another field and through self-education, trainings, courses, they started new career.
 
-Now, I am exploiting my research and analytical skills in software testing. Currently, I have finished my previous project and I am involved in volunteering as a Manual QA at a startup, where I continue to use my gained experience and, of course, continue to learn new toold, methodologies and technologies.  
+Now, I am exploiting my research and analytical skills in software testing. Currently, I have finished my previous project as a QA manual for an automotive manufacturer, where I tested Android apps and systems. Currently, I am involved in volunteering as a Manual QA at a startup, where I continue to use my gained experience and, of course, continue to learn new toold, methodologies and technologies.  
 
 I would be extremely happy to continue applying my obtained knowledge in testing. It is a crucial step in my current career goal — to become a senior-level software tester in 2 years.
 
