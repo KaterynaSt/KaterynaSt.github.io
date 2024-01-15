@@ -105,7 +105,7 @@ A course which helps to use  design thinking approach to new product development
 - [The training webshop](https://www.amazon.ca/) was used to create demo test cases.
   * Test case for checking the checkout process and for checking the addition of items to the cart. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/12XMzBiKmU68qL5GpNhlyiYPUW0ocuaVtdLsBgyzF3a4/edit?usp=sharing)
 
-- [The training webpage](jobsautopilot.com) was used to create demo test cases.
+- [The training webpage](https://jobautopilot.com/) was used to create demo test cases.
   * Test case for uploading resume to Chrome extension. Check [the screenshot from Jira here](https://docs.google.com/document/d/1Bu-O-FwSxEMNWl-EX6TR0fQQZXG15F20DVf_ozpR1P0/edit?usp=sharing).
 
   * Bug report. Check (https://docs.google.com/spreadsheets/d/1yVxq0jCm3520k8lXmZ44cJOvsob6GNT7_9O1wJbDh-s/edit?usp=sharing).
