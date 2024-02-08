@@ -111,11 +111,6 @@ A course which helps to use  design thinking approach to new product development
   * Bug report. Check (https://docs.google.com/spreadsheets/d/1yVxq0jCm3520k8lXmZ44cJOvsob6GNT7_9O1wJbDh-s/edit?usp=sharing).
   * Bug report. Screenshot from Jira (https://docs.google.com/document/d/1Bg9clemZXSfrit4TjOE-vexZ9_GzmiLbyypcp-_rc8s/edit?usp=sharing).
 
-### API testing in Swagger
-
-  * POST endpoint - Create questions. Check screenshots (https://docs.google.com/document/d/1A2kSTx7LMDZthUSkKFOUrPqS_kItu-xU_46P_-ZAXkE/edit?usp=sharing).
-  * GET endpoint - get task by id. Check screenshots (https://docs.google.com/document/d/1qwHb3ZXWyO_uEW_pqOWC0bwcbD-oDeduLJbcb2ozptM/edit?usp=sharing).
-  
 
 ### Mindmaps and diagrams
 * Functional decomposition of [the training webpage Loan Calculator](https://www.desjardins.com/). Check [the mindmap](https://docs.google.com/document/d/1sAEpWoYJM7evVgJdR7U-0a-zTonAgbIixXnKF0YPH0A/edit?usp=sharing).
@@ -123,7 +118,7 @@ A course which helps to use  design thinking approach to new product development
 * Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://docs.google.com/document/d/1Za9TBhbFQJpkrfceEMnoZ47dvGzb52vQ2lYrARiSEWE/edit?usp=sharing).
 
 ## Books I have read
-__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for each tester. It explains the general goals and basic techniques in software testing.
+__"Exploratory Software Testing" - James Whittaker"__ 2009 - an excellent book for each tester. It explains the test design techniques and other stuff for a tester.
 
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
 
