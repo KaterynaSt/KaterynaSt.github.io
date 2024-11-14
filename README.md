@@ -1,5 +1,5 @@
 # KaterynaSt.github.io
-Relentless QA tester/analyst with good eye at finding/preventing issues
+Relentless ISTQB certified QA tester/analyst with good eye at finding/preventing issues
 <h1>Hi, I'm Kateryna! <br/><a href="https://www.linkedin.com/in/kateryna-stoichan/">QA tester</a></h1>
 
 - [About me](#about-me)
@@ -7,6 +7,7 @@ Relentless QA tester/analyst with good eye at finding/preventing issues
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
+- [Certifications](#certifications)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases, bug reports and work in Jira/Excel](#test-cases-bug-reports-and-work-in-Jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
@@ -97,6 +98,10 @@ __Design thinking__
 *online course from impaQta.*  
 A course which helps to use  design thinking approach to new product development that begins with understanding unmet customer needs. It's a human-centered design process that approaches problem-solving with understanding the user needs.   
 [Link to the certificate](https://drive.google.com/file/d/1ZhTdEw0jNLCnQg0ZW9PhulGuliKnTUeG/view?usp=sharing)
+
+## Certifications
+
+You can view my ISTQB certification via this link https://drive.google.com/file/d/1Uyv4kbUvY-7DM307o6w9DpyU2SRV92fW/view?usp=sharing
 
 ## Examples of my work
 
